@@ -108,6 +108,8 @@ project_root/
     ├── preprocess/
     │   ├── preprocess_mimic_cxr.py
     │   └── preprocess_mednli.py
+    ├── utils/
+    │   └── convert_deid_tags.py
     ├── finetune_cxr.py
     └── finetune_mednli.py
 ```
