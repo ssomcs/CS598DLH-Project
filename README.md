@@ -39,7 +39,7 @@ To train the model for chest X-ray report generation, run:
 To evaluate the models, you can check the output files generated during training, which include metrics and predictions.
 
 ## Pre-trained Model
-You can download trained models [here](https://uillinoisedu-my.sharepoint.com/my?id=%2Fpersonal%2Fsyso2%5Fillinois%5Fedu%2FDocuments%2FCS598DLH%2DProject&ga=1):
+You can download trained models [here](https://uillinoisedu-my.sharepoint.com/:f:/g/personal/syso2_illinois_edu/EtTtO1q7hbREjNyQRlwr-ykBjACP90lL9ssdz8XiKf3cCw?e=7aMKz1):
 - Clinical-T5-Large model was trained on MedNLI and MIMIC-CXR datasets.
 
 ## Results
