@@ -51,7 +51,7 @@ The pre-trained model achieve the following performance on clinical tasks:
 
 | Model | Accuracy | F1 Score |
 |-------|----------|----------|
-| Clinical-T5-Large	| 87.2% | 74.5% |
+| Clinical-T5-Large	| 87.6% | 87.2% |
 
 ### Chest X-ray Report Generation
 
