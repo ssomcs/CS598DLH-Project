@@ -92,8 +92,7 @@ project_root/
 ├── output/
 │   ├── cxr/                     # CXR training outputs
 │   │   ├── best_model/          # Saved model
-│   │   ├── results.json         # Evaluation metrics
-│   │   └── training_logs.txt    # Training logs
+│   │   └── results.json         # Evaluation metrics
 │   └── mednli/                  # MedNLI training outputs
 │       ├── mednli-prediction.txt
 │       ├── mednli-label.txt
